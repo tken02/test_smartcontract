@@ -1,1 +1,16 @@
-{"name":"NFT Asset Name #7","description":"NFT Asset Detailed Description #7","image_url": "https://github.com/tken02/test_smartcontract/blob/main/card_Image/7.png","attributes":[{"trait_type":"Background","value":"Green"},{"trait_type":"Fur","value":"Green"},{"trait_type":"Eyes","value":"Open"},{"trait_type":"Mouth","value":"Happy"},{"trait_type":"Clothes","value":"Coat"}],"creators":[],"collection":{"name":"Collection Name","family":"Unique Family Name"},"symbol":"NFT","seller_fee_basis_points":0,"image":"__CID__","compiler":"Genfty.com"}
+{
+    "name": "Card 7",
+    "description": "Genesis card 7",
+    "image_url": "https://raw.githubusercontent.com/tken02/test_smartcontract/main/card_Image/7.png",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "genesis 7"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 162495518
+        }        
+      ]
+}
