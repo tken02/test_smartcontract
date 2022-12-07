@@ -1,7 +1,7 @@
 {
     "name": "Card 1",
     "description": "Genesis card",
-    "image_url": "https://github.com/blockdev-vn/nft-demo/raw/master/cards/1.jpg",
+    "image_url": "https://raw.githubusercontent.com/tken02/test_smartcontract/main/card_Image/11.jpg",
     "attributes": [
         {
           "trait_type": "class", 
