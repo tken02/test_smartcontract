@@ -1,1 +1,6 @@
-{"name":"NFT Asset Name #5","description":"NFT Asset Detailed Description #5","image_url": "https://github.com/tken02/test_smartcontract/blob/main/card_Image/5.png","attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Fur","value":"Red"},{"trait_type":"Eyes","value":"Wink"},{"trait_type":"Mouth","value":"Confused"},{"trait_type":"Clothes","value":"Shirt"}],"creators":[],"collection":{"name":"Collection Name","family":"Unique Family Name"},"symbol":"NFT","seller_fee_basis_points":0,"image":"__CID__","compiler":"Genfty.com"}
+{"name":"NFT Asset Name #5",
+"description":"NFT Asset Detailed Description #5",
+"image_url": "https://raw.githubusercontent.com/tken02/test_smartcontract/main/card_Image/5.png",
+"attributes":[{"trait_type":"Background","value":"Blue"},{"trait_type":"Fur","value":"Red"},
+{"trait_type":"Eyes","value":"Wink"},{"trait_type":"Mouth","value":"Confused"},{"trait_type":"Clothes","value":"Shirt"}]
+}
