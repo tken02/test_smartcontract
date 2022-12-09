@@ -1,7 +1,9 @@
 {"name":"NFT Asset Name #2",
 "description":"NFT Asset Detailed Description #2",
 "image_url": "https://raw.githubusercontent.com/tken02/test_smartcontract/main/card_Image/2.png",
-"attributes":[{"trait_type":"Background","value":"Orange"},{"trait_type":"Fur","value":"Green"},
-{"trait_type":"Eyes","value":"Chill"},{"trait_type":"Mouth","value":"Smile"},
+"attributes":[{"trait_type":"Background","value":"Orange"},
+{"trait_type":"Fur","value":"Green"},
+{"trait_type":"Eyes","value":"Chill"},
+{"trait_type":"Mouth","value":"Smile"},
 {"trait_type":"Clothes","value":"Vest"}]
 }
